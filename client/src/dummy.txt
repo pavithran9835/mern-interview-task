@@ -1,0 +1,6 @@
+mobile,address,state
+9876543210,arakkonam,chennai
+9786453210,krpuram,bangalore
+7896543210,basveshwar nagar,hyderabad
+8667543220,electronic city,bangalore
+8667543222,hsr layout,hyderabad
